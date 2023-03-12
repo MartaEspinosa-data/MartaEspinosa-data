@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=martaespinosa-data&label=Profile%20views&color=0e75b6&style=flat" alt="martaespinosa-data" /> </p>
 
-- 🌱 I’m currently learning **Python, R, SQL**
+- 🌱 I’m currently learning **Python, R, SQL, Machine learning**
 
 - 👨‍💻 All of my projects are available at [https://martaespinosa-data.github.io/](https://martaespinosa-data.github.io/)
 
